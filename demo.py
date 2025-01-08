@@ -1,9 +1,9 @@
 from Student import Student
 
-class Dung(Student):
+class Phone(Student):
     def name(self):
-        return "Dung"
+        return "Phone"
     def speak(self):
-        return "Toi len la: Dung \nEmail: sevensoderfive@gmail.com"
+        return "Toi len la: Phone \nEmail: tradtrarist@gmail.com"
     def address(self):
         return "DH city"
